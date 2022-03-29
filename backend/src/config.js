@@ -9,7 +9,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "The Sons and Daughters of Big Ted";
 const description = "In a far away land, the one true Big Ted appeared. From him came; Fire, Water, Earth and Wind. He now has 4096 sons and daughters, each of them unique. Although all are unique, he has his favourites....";
-const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
+const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automaticall
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
