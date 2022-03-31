@@ -49,7 +49,7 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'polygon'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'BigTed';
+const CONTRACT_NAME = 'Big Ted';
 const CONTRACT_SYMBOL = 'BT';
 const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x89efd07b63eb4f9B9928a11FFC8D83395aD77e3B';
